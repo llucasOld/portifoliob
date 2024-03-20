@@ -1,0 +1,257 @@
+@charset "utf-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #b4b1b1;
+}
+
+h3 {
+    color: #000000;
+    margin: 40px;
+    font-size: 15px;
+}
+
+span {
+    color: #000000;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container ul {
+    list-style: none;
+    display: flex;
+}
+
+.container ul li {
+    margin-right: 20px; 
+}
+
+.container ul li:last-child {
+    margin-right: 0; 
+}
+
+.flex ul li a {
+    text-decoration: none;
+    color: #000;
+    border-bottom: none;
+    font-size: 15px; 
+}
+
+.flex div {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 5px 13px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cccccc;
+    color: #969494;
+}
+
+.container ul li a:hover{
+
+}
+
+.imga{
+    margin: -15px;
+    margin-left: 21px;
+}
+
+
+.article h3{
+    margin: 0;
+    padding: 0;
+}
+
+#botao-sobre{
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+.flexa{
+    display: inline-block;
+    display: flex;
+}
+
+#botao-sobre h2{
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+#flexb {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 20px;
+}
+
+.water {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 20px;
+
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    background-color: #ffebeb; 
+    color: #000000;
+    box-shadow: 20px 20px 20px;
+
+
+}
+
+
+#list ul{
+    padding-left: 13%;
+    text-decoration: none;
+    padding-top: 6%;    
+}
+
+#list ul li{
+    margin: 20px;
+}
+
+.articled{
+    margin: 20px;
+    padding-left: 6%;
+}
+
+
+.california{
+    margin-top: -20%;
+    height: 400px;
+    color: white;
+    background: linear-gradient(to bottom, #b4b1b1, #000000);
+}
+
+
+.texa{
+   
+    height: 300px;
+    color: #ffffff;
+    background-color: #000;
+}
+
+     .article h3{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         margin-top: 11%;
+         padding-left: 4%;
+     }
+
+     .article h2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-left: 4%;
+    }
+
+    .article p{
+        font-family: sans-serif;
+        padding-left: 4%;
+    }
+
+.russia{
+    background-color: #00000037;
+    height: 20px;
+    margin-top: 85px;
+    width: 90%;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+
+.tubarao {
+  color: #000000;
+  font-size: 20px;
+}
+
+.bostan{
+    margin-top: 5%;
+    align-items: center;
+    text-align: center;
+}
+
+.articled h2{
+    margin-top: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.articled p{
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#bolo{
+    height: 20px;
+    margin-top: 11px;
+}
+
+.containerr {
+    padding-left: 41%;
+}
+
+.agua{
+    background-color: #000000;
+    height: 60px;
+    width: 30px;
+    border-radius: 20px;
+    right:31px;
+    position: fixed;
+    margin-top: 30%;
+
+}
+
+.bostan h2{
+    margin: 30px;
+}
+
+.bostan p{
+
+    margin: 13px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container ul {
+    list-style: none;
+    display: flex;
+}
+
+.container ul li {
+    margin-right: 20px; 
+}
+
+.container ul li:last-child {
+    margin-right: 0; 
+}
+
+.articled a{
+    text-decoration: none;
+    color: #000;
+    border-bottom: none;
+    font-size: 15px; 
+}
